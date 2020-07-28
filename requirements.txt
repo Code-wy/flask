@@ -48,7 +48,7 @@ openpyxl==3.0.2
 pandas==0.25.3
 parsel==1.5.2
 parsing==1.6.0
-Pillow==6.2.2
+Pillow>=7.1.0
 prettytable==0.7.2
 Protego==0.1.15
 protobuf==3.6.1
