@@ -90,7 +90,7 @@ tojson==0.1
 Top==1.0.0
 tqdm==4.32.1
 Twisted==20.3.0
-urllib3==1.25.7
+urllib3==1.26.5
 vine==1.1.4
 virtualenv==20.0.18
 w3lib==1.21.0
